@@ -1,0 +1,7 @@
+tk
+pandas
+pywin32
+customtkinter
+pyautogui
+
+
